@@ -1,7 +1,3 @@
-Certainly! Based on the structure and contents of your GitHub repository [Raki1929/Opencart](https://github.com/Raki1929/Opencart/tree/master), I've drafted a comprehensive `README.md` file for your Selenium Java TestNG data-driven framework project. This README includes sections on project overview, features, folder structure, setup instructions, test execution, and contribution guidelines.
-
----
-
 # Opencart Automation Framework
 
 ## Overview
